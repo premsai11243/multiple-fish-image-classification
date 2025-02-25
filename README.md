@@ -59,8 +59,7 @@ Accuracy: 0.92
 Macro Avg: 0.85      0.88      0.86      3187
 Weighted Avg: 0.93   0.92      0.92      3187</code></pre>
     <ol start="12">
-        <li><strong>Deploy the model</strong> using a Streamlit web application.</li>
-        
+        <li><strong>Deploy the model</strong> using a Streamlit web application.</li
     </ol>
 </body>
 </html>
