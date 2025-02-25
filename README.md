@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/4d7b640c-4a5f-40ac-aa25-8f8fc6c2ea39
-
 <h2>multiclassFish  image classification</h2>
 <h3>import necessary libraries</h3>
 <a href="https://pandas.pydata.org">Click Here</a>
@@ -63,7 +60,14 @@ Macro Avg: 0.85      0.88      0.86      3187
 Weighted Avg: 0.93   0.92      0.92      3187</code></pre>
     <ol start="12">
         <li><strong>Deploy the model</strong> using a Streamlit web application.</li>
+        
     </ol>
 </body>
 </html>
+
+
+
+
+https://github.com/user-attachments/assets/ec81ae64-d954-4d5d-83ff-7d78c60a1f29
+
 
