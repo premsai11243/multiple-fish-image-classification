@@ -37,7 +37,7 @@ Click on the library names to visit their official documentation:
     <li><strong>Make predictions</strong> on test data.</li>
     <li><strong>Evaluate the model</strong> with test data.</li>
 </ol>
-# Classification Report
+<h3>Classification Report</h3>
 <pre><code>Test Accuracy: 0.9049
 Test Loss: 0.2485
 
