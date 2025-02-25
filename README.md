@@ -51,9 +51,8 @@ Weighted Avg: 0.93   0.92      0.92      3187
 
 
 
+[Watch the demo](https://github.com/user-attachments/assets/25e51496-e8a8-4acb-9dff-b0609621e31c)
 
-
-https://github.com/user-attachments/assets/d5cd5323-ccea-42bf-b8b0-fbd53d6a8f6c
 
 
 
