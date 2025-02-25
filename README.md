@@ -60,3 +60,6 @@ Weighted Avg: 0.93   0.92      0.92      3187</code></pre>
 <ol start="12">
     <li><strong>Deploy the model</strong> using a Streamlit web application.</li>
 </ol>
+
+https://github.com/user-attachments/assets/5e81b061-e645-45f1-b481-3a38c8fa32af
+
