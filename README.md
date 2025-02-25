@@ -1,11 +1,11 @@
 
-<h2>multiclassFish  image classification</h2>
-<h3>import necessary libraries</h3>
-<a href="https://pandas.pydata.org">Click Here</a>
-<a href="https://numpy.org">Click Here</a>
-<a href="https://www.tensorflow.org">Click Here</a>
-<a href=" https://docs.python.org/3/library/os.html">Click Here</a>
-<a href="https://joblib.readthedocs.io">Click Here</a>
+<h2>MulticlassFish  Image Classification</h2>
+<h3>Import Necessary Libraries</h3>
+<a href="https://pandas.pydata.org">pandas</a>
+<a href="https://numpy.org">numpy</a>
+<a href="https://www.tensorflow.org">tensor flow</a>
+<a href=" https://docs.python.org/3/library/os.html">os</a>
+<a href="https://joblib.readthedocs.io">joblib</a>
 
 <head>
     <meta charset="UTF-8">
