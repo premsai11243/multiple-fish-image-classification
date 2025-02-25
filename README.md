@@ -1,47 +1,7 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CNN Model Training Steps</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h2, h3 {
-            color: #2c3e50;
-        }
-        .library-links {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-bottom: 20px;
-        }
-        .library-links a {
-            background: #3498db;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .library-links a:hover {
-            background: #2980b9;
-        }
-        pre {
-            background: #ecf0f1;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        code {
-            font-family: Consolas, monospace;
-            font-size: 14px;
-        }
-    </style>
 </head>
 <body>
 
@@ -103,7 +63,6 @@ Weighted Avg: 0.93   0.92      0.92      3187</code></pre>
 
 </body>
 </html>
-
 
 
 
