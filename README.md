@@ -1,43 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>CNN Model Training Steps</title>
-</head>
-<body>
 
-    <h2>Multiclass Fish Image Classification</h2>
-    <h3>Import Necessary Libraries</h3>
-    
-    <div class="library-links">
-        <a href="https://pandas.pydata.org" target="_blank">pandas</a>
-        <a href="https://numpy.org" target="_blank">numpy</a>
-        <a href="https://www.tensorflow.org" target="_blank">TensorFlow</a>
-        <a href="https://docs.python.org/3/library/os.html" target="_blank">os</a>
-        <a href="https://joblib.readthedocs.io" target="_blank">joblib</a>
-    </div>
+# Multiclass Fish Image Classification
 
-    <h2>Steps for CNN Model Training and Deployment</h2>
-    <ol>
-        <li><strong>Load the data</strong> from the training data file.</li>
-        <li><strong>Check the shape of data</strong>: Expected shape (256,256,3)</li>
-        <li><strong>Check the bit depth</strong> for rescaling the image.</li>
-        <li><strong>Data Augmentation</strong> for both training and validation data.</li>
-        <li><strong>Load the data</strong> from the directory for both training and validation.</li>
-        <li><strong>Build the model</strong> using TensorFlow Keras Sequential.</li>
-        <li><strong>Compile the model</strong> for training:
-            <ul>
-                <li>Loss Function → Minimization target.</li>
-                <li>Optimizer → Weight update mechanism.</li>
-                <li>Metrics → Performance evaluation.</li>
-            </ul>
-        </li>
-        <li><strong>Train the model</strong>.</li>
-        <li><strong>Make predictions</strong> on test data.</li>
-        <li><strong>Evaluate the model</strong> with test data.</li>
-        <li><strong>Classification Report</strong>:</li>
-    </ol>
+## 📌 Import Necessary Libraries
+Click on the library names to visit their official documentation:
 
-    <pre><code>Test Accuracy: 0.9049
+- [pandas](https://pandas.pydata.org)
+- [numpy](https://numpy.org)
+- [TensorFlow](https://www.tensorflow.org)
+- [os (Python Documentation)](https://docs.python.org/3/library/os.html)
+- [joblib](https://joblib.readthedocs.io)
+
+---
+
+## 🚀 Steps for CNN Model Training and Deployment
+1. **Load the data** from the training data file.
+2. **Check the shape of the data**: Expected shape `(256,256,3)`.
+3. **Check the bit depth** for rescaling the image.
+4. **Data Augmentation** for both training and validation data.
+5. **Load the data** from the directory for both training and validation.
+6. **Build the model** using TensorFlow Keras `Sequential()`.
+7. **Compile the model** for training:
+   - **Loss Function** → Minimization target.
+   - **Optimizer** → Weight update mechanism.
+   - **Metrics** → Performance evaluation.
+8. **Train the model**.
+9. **Make predictions** on test data.
+10. **Evaluate the model** with test data.
+11. **Classification Report**:
+
+```plaintext
+Test Accuracy: 0.9049
 Test Loss: 0.2485
 
 Precision    Recall  F1-score   Support
@@ -55,15 +47,7 @@ Precision    Recall  F1-score   Support
 
 Accuracy: 0.92
 Macro Avg: 0.85      0.88      0.86      3187
-Weighted Avg: 0.93   0.92      0.92      3187</code></pre>
-
-    <ol start="12">
-        <li><strong>Deploy the model</strong> using a Streamlit web application.</li>
-    </ol>
-
-</body>
-</html>
-
+Weighted Avg: 0.93   0.92      0.92      3187
 
 
 https://github.com/user-attachments/assets/ec81ae64-d954-4d5d-83ff-7d78c60a1f29
