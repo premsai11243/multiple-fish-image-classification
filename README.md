@@ -1,7 +1,7 @@
 
 <h2>Multiclass Fish Image Classification</h2>
 
-<h3>Import Necessary Libraries</h3>
+<h3><u>Import Necessary Libraries</u></h3>
 <ul>
     <li><a href="https://pandas.pydata.org">pandas</a></li>
     <li><a href="https://numpy.org">numpy</a></li>
@@ -10,7 +10,7 @@
     <li><a href="https://joblib.readthedocs.io">joblib</a></li>
 </ul>
 
-<h3>Steps for CNN Model Training and Deployment</h3>
+<h3><u>Steps for CNN Model Training and Deployment</u></h3>
 <ol>
     <li><strong>Load the data</strong> from the training data file.</li>
     <li><strong>Check the shape of data</strong>: Expected shape (256,256,3)
