@@ -1,16 +1,18 @@
 
-<h2>Multiclass Fish Image Classification</h2>
+# Multiclass Fish Image Classification
 
-<h3><u>Import Necessary Libraries</u></h3>
-<ul>
-    <li><a href="https://pandas.pydata.org">pandas</a></li>
-    <li><a href="https://numpy.org">numpy</a></li>
-    <li><a href="https://www.tensorflow.org">tensorflow</a></li>
-    <li><a href="https://docs.python.org/3/library/os.html">os</a></li>
-    <li><a href="https://joblib.readthedocs.io">joblib</a></li>
-</ul>
+## 📌 Import Necessary Libraries
+Click on the library names to visit their official documentation:
 
-<h3><u>Steps for CNN Model Training and Deployment</u></h3>
+- [pandas](https://pandas.pydata.org)
+- [numpy](https://numpy.org)
+- [TensorFlow](https://www.tensorflow.org)
+- [os (Python Documentation)](https://docs.python.org/3/library/os.html)
+- [joblib](https://joblib.readthedocs.io)
+
+---
+
+## 🚀 Steps for CNN Model Training and Deployment
 <ol>
     <li><strong>Load the data</strong> from the training data file.</li>
     <li><strong>Check the shape of data</strong>: Expected shape (256,256,3)
