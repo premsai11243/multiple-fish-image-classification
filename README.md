@@ -1,18 +1,61 @@
 
-<h2>MulticlassFish  Image Classification</h2>
-<h3>Import Necessary Libraries</h3>
-<a href="https://pandas.pydata.org">pandas</a>
-<a href="https://numpy.org">numpy</a>
-<a href="https://www.tensorflow.org">tensor flow</a>
-<a href=" https://docs.python.org/3/library/os.html">os</a>
-<a href="https://joblib.readthedocs.io">joblib</a>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CNN Model Training Steps</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h2, h3 {
+            color: #2c3e50;
+        }
+        .library-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .library-links a {
+            background: #3498db;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .library-links a:hover {
+            background: #2980b9;
+        }
+        pre {
+            background: #ecf0f1;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        code {
+            font-family: Consolas, monospace;
+            font-size: 14px;
+        }
+    </style>
 </head>
 <body>
+
+    <h2>Multiclass Fish Image Classification</h2>
+    <h3>Import Necessary Libraries</h3>
+    
+    <div class="library-links">
+        <a href="https://pandas.pydata.org" target="_blank">pandas</a>
+        <a href="https://numpy.org" target="_blank">numpy</a>
+        <a href="https://www.tensorflow.org" target="_blank">TensorFlow</a>
+        <a href="https://docs.python.org/3/library/os.html" target="_blank">os</a>
+        <a href="https://joblib.readthedocs.io" target="_blank">joblib</a>
+    </div>
+
     <h2>Steps for CNN Model Training and Deployment</h2>
     <ol>
         <li><strong>Load the data</strong> from the training data file.</li>
@@ -33,6 +76,7 @@
         <li><strong>Evaluate the model</strong> with test data.</li>
         <li><strong>Classification Report</strong>:</li>
     </ol>
+
     <pre><code>Test Accuracy: 0.9049
 Test Loss: 0.2485
 
@@ -52,9 +96,11 @@ Precision    Recall  F1-score   Support
 Accuracy: 0.92
 Macro Avg: 0.85      0.88      0.86      3187
 Weighted Avg: 0.93   0.92      0.92      3187</code></pre>
+
     <ol start="12">
-        <li><strong>Deploy the model</strong> using a Streamlit web application.</li
+        <li><strong>Deploy the model</strong> using a Streamlit web application.</li>
     </ol>
+
 </body>
 </html>
 
