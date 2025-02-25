@@ -11,12 +11,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CNN Model Training Steps</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h2 { color: #2c3e50; }
-        pre { background: #ecf0f1; padding: 10px; border-radius: 5px; overflow-x: auto; }
-        code { font-family: Consolas, monospace; }
-    </style>
 </head>
 <body>
     <h2>Steps for CNN Model Training and Deployment</h2>
