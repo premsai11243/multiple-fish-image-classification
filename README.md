@@ -1,7 +1,7 @@
 
 # Multiclass Fish Image Classification
 
-## 📌 Import Necessary Libraries
+## Import Necessary Libraries
 Click on the library names to visit their official documentation:
 
 - [pandas](https://pandas.pydata.org)
@@ -12,7 +12,7 @@ Click on the library names to visit their official documentation:
 
 ---
 
-## 🚀 Steps for CNN Model Training and Deployment
+##  Steps for CNN Model Training and Deployment
 <ol>
     <li><strong>Load the data</strong> from the training data file.</li>
     <li><strong>Check the shape of data</strong>: Expected shape (256,256,3)
