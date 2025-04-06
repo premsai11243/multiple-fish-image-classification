@@ -33,7 +33,8 @@ Click on the library names to visit their official documentation:
             <li>Metrics → Performance evaluation.</li>
         </ul>
     </li>
-    <li><strong>Train the model</strong>.</li>
+    <li><strong>experiment with multiple models</strong>.</li>
+    <li><strong>Train the CNNmodel</strong>.</li>
     <li><strong>Make predictions</strong> on test data.</li>
     <li><strong>Evaluate the model</strong> with test data.</li>
 </ol>
